@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/activity_auth.xml" value="0.2210144927536232" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_login.xml" value="0.22" />
       </map>
     </option>
   </component>
