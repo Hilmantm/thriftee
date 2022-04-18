@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/berandaFragment"
+        android:enabled="true"
+        android:title="@string/beranda"
+        android:icon="@drawable/beranda"/>
+    <item
+        android:id="@+id/dropboxFragment"
+        android:enabled="true"
+        android:title="@string/dropbox"
+        android:icon="@drawable/dropbox"/>
+    <item
+        android:id="@+id/voucherFragment"
+        android:enabled="true"
+        android:title="@string/voucher"
+        android:icon="@drawable/voucher"/>
+    <item
+        android:id="@+id/akunFragment"
+        android:enabled="true"
+        android:title="@string/akun"
+        android:icon="@drawable/akun"/>
+</menu>

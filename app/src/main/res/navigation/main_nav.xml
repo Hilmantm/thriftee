@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/berandaFragment">
+
+    <fragment
+        android:id="@+id/akunFragment"
+        android:name="id.kodesumsi.thriftee.ui.home.akun.AkunFragment"
+        android:label="fragment_akun"
+        tools:layout="@layout/fragment_akun" />
+    <fragment
+        android:id="@+id/berandaFragment"
+        android:name="id.kodesumsi.thriftee.ui.home.beranda.BerandaFragment"
+        android:label="fragment_beranda"
+        tools:layout="@layout/fragment_beranda" />
+    <fragment
+        android:id="@+id/dropboxFragment"
+        android:name="id.kodesumsi.thriftee.ui.home.dropbox.DropboxFragment"
+        android:label="fragment_dropbox"
+        tools:layout="@layout/fragment_dropbox" />
+    <fragment
+        android:id="@+id/voucherFragment"
+        android:name="id.kodesumsi.thriftee.ui.home.voucher.VoucherFragment"
+        android:label="fragment_voucher"
+        tools:layout="@layout/fragment_voucher" />
+</navigation>
