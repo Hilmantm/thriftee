@@ -18,4 +18,8 @@
     <string name="login">Masuk</string>
     <string name="ask_for_account">Tidak punya akun?</string>
     <string name="register">Daftar</string>
+    <string name="welcoming_text">Halo</string>
+    <string name="yuk_mulai_rapikan_lemari_mu">Yuk mulai rapikan lemari mu</string>
+    <string name="thriftee_points">Thriftee Points</string>
+    <string name="top_up">top up</string>
 </resources>
