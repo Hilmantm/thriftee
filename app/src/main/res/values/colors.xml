@@ -8,6 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="primary_color">#23BEAE</color>
+    <color name="primary_color_variant">#259F92</color>
+
+    <color name="secondary_color">#FFD966</color>
+    <color name="secondary_color_variant">#C8A63F</color>
+
     <color name="dots_color">#E5E7EB</color>
     <color name="selected_dots_color">#30D9C8</color>
 </resources>

@@ -11,4 +11,11 @@
     <string name="akun">Akun</string>
     <string name="dropbox">Dropbox</string>
     <string name="voucher">Voucher</string>
+    <string name="welcome">Silahkan Masuk</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="password">Kata Sandi</string>
+    <string name="forget_password">Lupa kata sandi?</string>
+    <string name="login">Masuk</string>
+    <string name="ask_for_account">Tidak punya akun?</string>
+    <string name="register">Daftar</string>
 </resources>
