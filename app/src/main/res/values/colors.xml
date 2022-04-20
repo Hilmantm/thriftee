@@ -16,4 +16,5 @@
 
     <color name="dots_color">#E5E7EB</color>
     <color name="selected_dots_color">#30D9C8</color>
+    <color name="exit_color">#EF4444</color>
 </resources>

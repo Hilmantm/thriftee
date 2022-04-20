@@ -10,7 +10,7 @@
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/activity_splashscreen.xml" value="0.17119565217391305" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/component_feature.xml" value="0.3625" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/component_point.xml" value="0.3333333333333333" />
-        <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_akun.xml" value="0.3625" />
+        <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_akun.xml" value="0.22" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_beranda.xml" value="0.22" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_dropbox.xml" value="0.3625" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_history.xml" value="0.3625" />
@@ -19,6 +19,7 @@
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_toko.xml" value="0.3625" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/fragment_voucher.xml" value="0.3625" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/item_adoption_card.xml" value="0.3625" />
+        <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/item_profile.xml" value="0.3625" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/layout/item_voucher.xml" value="0.3625" />
         <entry key="..\:/MASTER PROGRAM/Project/project-android/thriftee/app/src/main/res/menu/main_menu.xml" value="0.3625" />
       </map>

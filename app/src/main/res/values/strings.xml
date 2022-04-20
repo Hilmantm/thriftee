@@ -29,4 +29,6 @@
     <string name="thriftee_point">Thriftee Point</string>
     <string name="voucher_menarik">Voucher Menarik</string>
     <string name="voucher_page_subtitle">Temukan voucher menarik dan tukarkan poin mu!</string>
+    <string name="setting">Pengaturan</string>
+    <string name="about">Tentang</string>
 </resources>
